@@ -18,8 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nakuldevmv&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=nakuldevmv&icon=0&color=9)](https://visitcount.itsvg.in)
 
 
