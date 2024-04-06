@@ -1,4 +1,4 @@
-# Hi!👋 I'm Nakul
+# Hi!👋 I'm Nakul Dev
 
 🌱 I’m currently learning Flutter<br>💬 Ask me about Web Development, Flutter, Python<br>
 
