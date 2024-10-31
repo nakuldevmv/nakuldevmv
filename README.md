@@ -30,8 +30,4 @@ src="https://img.shields.io/github/followers/nakuldevmv?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-stats.vercel.app/api?username=nakuldevmv&show_icons=true&hide=prs,issues,&count_private=true&title_color=a855f7&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="nakuldevmv's GitHub stats" /></a>          
-
 <a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nakuldevmv&stroke=64748b&background=181824&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>          
