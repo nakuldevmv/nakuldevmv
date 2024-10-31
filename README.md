@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nakul</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<img align="left" src="https://profile-counter.glitch.me/nakuldevmv/count.svg?"  />
+<div align="right">
+  <img src="https://profile-counter.glitch.me/nakuldevmv/count.svg?"  />
+</div>
 
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/nakuldevmv/Portfolio-Website)
