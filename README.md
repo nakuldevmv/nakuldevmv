@@ -32,11 +32,9 @@ src="https://img.shields.io/github/followers/nakuldevmv?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-stats.vercel.app/api?username=nakuldevmv&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="nakuldevmv's GitHub stats" /></a>
+<a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-stats.vercel.app/api?username=nakuldevmv&show_icons=true&hide=prs,issues,&count_private=true&title_color=a855f7&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="nakuldevmv's GitHub stats" /></a>
 
 <a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nakuldevmv&stroke=64748b&background=181824&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nakuldevmv&bg_color=181824&color=64748b&line=14b8a6&point=64748b&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
