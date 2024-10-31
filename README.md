@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nakul</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakuldevmv&label=Profile%20views&color=2f6283&style=flat" alt="nakuldevmv" /> </p>
+<img align="left" src="https://profile-counter.glitch.me/nakuldevmv/count.svg?"  />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakuldevmv" alt="nakuldevmv" /></a> </p>
 
@@ -31,8 +31,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakuldevmv&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="nakuldevmv" /></p>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakuldevmv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="nakuldevmv" /></p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=nakuldevmv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakuldevmv&theme=dark" alt="nakuldevmv" /></p>
+<img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
+
