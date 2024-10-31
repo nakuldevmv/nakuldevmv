@@ -35,7 +35,3 @@ src="https://img.shields.io/github/followers/nakuldevmv?logo=github&style=for-th
 <a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-stats.vercel.app/api?username=nakuldevmv&show_icons=true&hide=prs,issues,&count_private=true&title_color=a855f7&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="nakuldevmv's GitHub stats" /></a>          
 
 <a href="http://www.github.com/nakuldevmv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nakuldevmv&stroke=64748b&background=181824&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>          
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/nakuldevmv/Apple-Music-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nakuldevmv&repo=Apple-Music-Clone&title_color=a855f7&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a>          <a href="https://github.com/nakuldevmv/Portfolio-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nakuldevmv&repo=Portfolio-Website&title_color=a855f7&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a>          </div><br /><br /><br /><br /><br /><br /><br />
