@@ -3,7 +3,6 @@
 
 <img align="left" src="https://profile-counter.glitch.me/nakuldevmv/count.svg?"  />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakuldevmv" alt="nakuldevmv" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/nakuldevmv/Portfolio-Website)
 
