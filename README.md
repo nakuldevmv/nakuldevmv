@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [nakuldev.github.io](nakuldev.github.io)
+- 👨‍💻 All of my projects are available at [nakuldev.github.io](https://nakuldevmv.github.io/)
 
 - 💬 Ask me about **Application development and ML**
 
