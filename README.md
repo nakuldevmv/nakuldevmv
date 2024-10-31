@@ -34,9 +34,11 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=nakuldevmv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
 </div>
+
+###
 
 <img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
 
