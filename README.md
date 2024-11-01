@@ -5,7 +5,6 @@
   <img src="https://profile-counter.glitch.me/nakuldevmv/count.svg?"  />
 </div>
 
-
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/nakuldevmv/Portfolio-Website)
 
 - 🌱 I’m currently learning **Flutter**
