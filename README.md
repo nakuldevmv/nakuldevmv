@@ -67,7 +67,8 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nakuldevmv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nakuldevmv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="160" alt="streak graph"  /> &nbsp;&nbsp;
+  <a href="https://app.daily.dev/nakuldev"><img src="https://api.daily.dev/devcards/v2/zMBxqYhviVYYzB8H4yoSe.png?type=wide&r=z7g" width="310" alt="Nakul Dev's Dev Card"/></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
