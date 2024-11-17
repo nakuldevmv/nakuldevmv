@@ -14,11 +14,11 @@
 ```typescript
 class Developer {
     name: string = "Nakul Dev";
-    role: string = "Flutter Developer";
+    role: string = "(Flutter | React) Developer";
     location: string = "India";
-    workingOn: string = "Portfolio Website";
-    learning: string[] = ["Flutter","React", "Machine Learning"];
-    askMeAbout: string[] = ["App Dev", "ML", "UI/UX"];
+    workingOn: string = "FindX";
+    learning: string[] = ["Flutter", "React", "Machine Learning"];
+    askMeAbout: string[] = ["Web Dev", "App Dev", "ML", "UI/UX"];
 }
 ```
 
