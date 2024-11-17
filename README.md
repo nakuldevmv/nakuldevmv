@@ -3,9 +3,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=GoogleChrome&logoColor=white&link=https://nakuldevmv.github.io/)](https://nakuldevmv.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/nakuldevmv)](https://linkedin.com/in/nakuldevmv)
-[![Email](https://img.shields.io/badge/Email-4b5563?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nakuldev1561@gmail.com)](mailto:nakuldev1561@gmail.com)
+[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/1f2937?icon=chrome&labelColor=black)](https://nakuldevmv.github.io/)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black)](https://linkedin.com/in/nakuldevmv)
+[![Email](https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black)](mailto:nakuldev1561@gmail.com)
+
 
 
 </div>
@@ -93,11 +94,11 @@ graph TD
 ## 🤝 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakuldevmv)
-[![Instagram](https://img.shields.io/badge/Instagram-6b7280?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jo.cly.n)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-4b5563?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nakuldev1561)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-1f2937?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/nakuldev1561)
+    
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black)](https://linkedin.com/in/nakuldevmv)
+[![Instagram](https://badgen.net/badge/Instagram/Follow/6b7280?icon=instagram&labelColor=black)](https://instagram.com/jo.cly.n)
+[![HackerRank](https://badgen.net/badge/HackerRank/Practice/4b5563?icon=code&labelColor=black)](https://www.hackerrank.com/nakuldev1561)
+[![LeetCode](https://badgen.net/badge/LeetCode/Challenge/1f2937?icon=leetcode&labelColor=black)](https://www.leetcode.com/nakuldev1561)
 
 
 </div>
