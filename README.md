@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nakul Dev 👋</h1>
-<h3 align="center">Flutter Developer | ML Enthusiast</h3>
+<h3 align="center">Flutter | React | ML Enthusiast</h3>
 
 <div align="center">
 
