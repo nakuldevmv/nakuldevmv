@@ -72,12 +72,10 @@ graph TD
     C --> C2[Git]
     C --> C3[MySQL]
 
-    %% Define styles for dark theme
     classDef main fill:#1f2937,stroke:#fbbf24,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
     classDef design fill:#374151,stroke:#22d3ee,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
     classDef dev fill:#4b5563,stroke:#34d399,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
 
-    %% Apply styles to nodes
     class A main;
     class B,B1,B2,B3 design;
     class C,C1,C2,C3 dev;
