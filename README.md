@@ -25,6 +25,8 @@ class Developer {
 ## 💻 Technical Skills
 
 ```mermaid
+%% Note: This graph showcases my Technical Skills.  
+%% If it doesn't display, please view it on the GitHub website.
 graph TD
     A[Programming] --> B[Mobile]
     A --> C[Web]
@@ -41,13 +43,11 @@ graph TD
     D --> D2[TensorFlow]
     D --> D3[PyTorch]
 
-    %% Define styles for dark theme with appropriate border colors
     classDef main fill:#1f2937,stroke:#fbbf24,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
     classDef mobile fill:#374151,stroke:#22d3ee,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
     classDef web fill:#4b5563,stroke:#60a5fa,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
     classDef ml fill:#6b7280,stroke:#34d399,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
 
-    %% Apply styles to nodes
     class A main;
     class B,B1,B2 mobile;
     class C,C1,C2,C3 web;
@@ -58,6 +58,8 @@ graph TD
 ## 🎨 Design & Tools
 
 ```mermaid
+%% Note: This graph showcases my Design & Tools.  
+%% If it doesn't display, please view it on the GitHub website.
 graph TD
     A[Creative Tools] --> B[Design]
     A --> C[Development]
