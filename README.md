@@ -17,7 +17,7 @@ class Developer {
     role: string = "Flutter Developer";
     location: string = "India";
     workingOn: string = "Portfolio Website";
-    learning: string[] = ["Flutter", "Machine Learning"];
+    learning: string[] = ["Flutter","React", "Machine Learning"];
     askMeAbout: string[] = ["App Dev", "ML", "UI/UX"];
 }
 ```
