@@ -4,6 +4,7 @@
 <div align="center">
 
 [![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/1f2937?icon=chrome&labelColor=black)](https://nakuldevmv.github.io/)
+[![Instagram](https://badgen.net/badge/Instagram/Follow/6b7280?icon=instagram&labelColor=black)](https://instagram.com/jo.cly.n)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black)](https://linkedin.com/in/nakuldevmv)
 [![Email](https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black)](mailto:nakuldev1561@gmail.com)
 [![Resume](https://badgen.net/badge/Resume/View/4b5563?icon=document&labelColor=black)](https://nakuldevmv.github.io/Resume/resume.pdf)
@@ -92,17 +93,6 @@ graph TD
   <img src="https://api.daily.dev/devcards/v2/zMBxqYhviVYYzB8H4yoSe.png?type=default" width="200" alt="Nakul Dev's Dev Card"/>
 </div>
 
-## 🤝 Connect With Me
-
-<div align="center">
-    
-[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black)](https://linkedin.com/in/nakuldevmv)
-[![Instagram](https://badgen.net/badge/Instagram/Follow/6b7280?icon=instagram&labelColor=black)](https://instagram.com/jo.cly.n)
-[![HackerRank](https://badgen.net/badge/HackerRank/Practice/4b5563?icon=code&labelColor=black)](https://www.hackerrank.com/nakuldev1561)
-[![LeetCode](https://badgen.net/badge/LeetCode/Challenge/1f2937?icon=leetcode&labelColor=black)](https://www.leetcode.com/nakuldev1561)
-
-
-</div>
 
 
 
