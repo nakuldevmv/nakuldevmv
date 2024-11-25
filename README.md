@@ -2,7 +2,8 @@
 <h3 align="center">Flutter | React | ML Enthusiast</h3>
 
 <div align="center">
-
+<br>
+    
 [![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/211720?labelColor=110e15)](https://nakuldevmv.github.io/)
 [![Instagram](https://badgen.net/badge/Instagram/Follow/211720?labelColor=110e15)](https://instagram.com/jo.cly.n)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/211720?labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
@@ -11,6 +12,7 @@
 
 
 </div>
+<br>
 
 ```typescript
 class Developer {
