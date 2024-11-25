@@ -3,11 +3,11 @@
 
 <div align="center">
 
-[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/1f2937?icon=chrome&labelColor=black)](https://nakuldevmv.github.io/)
-[![Instagram](https://badgen.net/badge/Instagram/Follow/6b7280?icon=instagram&labelColor=black)](https://instagram.com/jo.cly.n)
-[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black)](https://linkedin.com/in/nakuldevmv)
-[![Email](https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black)](mailto:nakuldev1561@gmail.com)
-[![Resume](https://badgen.net/badge/Resume/View/4b5563?icon=document&labelColor=black)](https://nakuldevmv.github.io/Resume/resume.pdf)
+[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/211720?icon=chrome&labelColor=110e15)](https://nakuldevmv.github.io/)
+[![Instagram](https://badgen.net/badge/Instagram/Follow/211720?icon=instagram&labelColor=110e15)](https://instagram.com/jo.cly.n)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/211720?icon=linkedin&labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
+[![Email](https://badgen.net/badge/Email/Send%20Mail/211720?icon=gmail&labelColor=110e15)](mailto:nakuldev1561@gmail.com)
+[![Resume](https://badgen.net/badge/Resume/View/211720?icon=document&labelColor=110e15)](https://nakuldevmv.github.io/Resume/resume.pdf)
 
 
 </div>
