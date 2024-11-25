@@ -9,22 +9,6 @@
 [![Email](https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black)](mailto:nakuldev1561@gmail.com)
 [![Resume](https://badgen.net/badge/Resume/View/4b5563?icon=document&labelColor=black)](https://nakuldevmv.github.io/Resume/resume.pdf)
 
-<a href="https://nakuldevmv.github.io/" target="_blank">
-  <img src="https://badgen.net/badge/Portfolio/Visit%20Now/1f2937?icon=chrome&labelColor=black" alt="Portfolio">
-</a>
-<a href="https://instagram.com/jo.cly.n" target="_blank">
-  <img src="https://badgen.net/badge/Instagram/Follow/6b7280?icon=instagram&labelColor=black" alt="Instagram">
-</a>
-<a href="https://linkedin.com/in/nakuldevmv" target="_blank">
-  <img src="https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black" alt="LinkedIn">
-</a>
-<a href="mailto:nakuldev1561@gmail.com" target="_blank">
-  <img src="https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black" alt="Email">
-</a>
-<a href="https://nakuldevmv.github.io/Resume/resume.pdf" target="_blank">
-  <img src="https://badgen.net/badge/Resume/View/4b5563?icon=document&labelColor=black" alt="Resume">
-</a>
-
 
 </div>
 
