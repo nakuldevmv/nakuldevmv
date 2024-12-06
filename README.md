@@ -40,7 +40,7 @@ graph TD
     
     C --> C1[JavaScript]
     C --> C2[HTML/CSS]
-    C --> C3[WordPress]
+    C --> C3[React]
     
     D --> D1[Python]
     D --> D2[TensorFlow]
