@@ -86,16 +86,6 @@ graph TD
 
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nakuldevmv&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Streak"/>
-  &nbsp;&nbsp;
-  <img src="https://api.daily.dev/devcards/v2/zMBxqYhviVYYzB8H4yoSe.png?type=default" width="200" alt="Nakul Dev's Dev Card"/>
-</div>
-
-
-
 #
 <div align="center">
   <i>Always learning, always growing. Feel free to reach out!</i>
