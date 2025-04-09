@@ -19,7 +19,7 @@ class Developer {
     name: string = "Nakul Dev";
     role: string = "(Flutter | React) Developer";
     location: string = "India";
-    workingOn: string = "FindX";
+    workingOn: string = "Spamurai";
     learning: string[] = ["Flutter", "React", "Machine Learning"];
     askMeAbout: string[] = ["Web Dev", "App Dev", "ML", "UI/UX"];
 }
@@ -29,7 +29,7 @@ class Developer {
 
 ```mermaid
 %% Note: This graph showcases my Technical Skills.  
-%% If it doesn't display, please view it on the GitHub website.
+%% If it doesn't show, view it on GitHub desktop site.
 graph TD
     A[Programming] --> B[Mobile]
     A --> C[Web]
@@ -62,7 +62,7 @@ graph TD
 
 ```mermaid
 %% Note: This graph showcases my Design & Tools.  
-%% If it doesn't display, please view it on the GitHub website.
+%% If it doesn't show, view it on GitHub desktop site.
 graph TD
     A[Creative Tools] --> B[Design]
     A --> C[Development]
