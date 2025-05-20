@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>💻 <i>"Code hard, debug harder, pray the compiler agrees."</i> 💻</h2>
+  <h2><i>Code hard, debug harder, pray the compiler agrees.</i></h2>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Software+Engineer;Coding+Enthusiast;Curious+Mind;Avid+Reader;GymRat+IRL+%26+in+code" alt="Typing SVG" />
 </div>
@@ -30,7 +30,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<div align="left">
   <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -55,7 +55,6 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 </div>
 
@@ -65,8 +64,8 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">FindX</h3>
-        <p align="center">
+        <h2 align="left">FindX</h2>
+        <p align="left">
           <a href="https://github.com/nakuldevmv/FindX" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
@@ -75,8 +74,8 @@
         <p><b>Tech stack:</b> JavaScript, Node.js, React, MongoDB</p>
       </td>
       <td width="50%">
-        <h3 align="center">Spamurai</h3>
-        <p align="center">
+        <h2 align="left">Spamurai</h2>
+        <p align="left">
           <a href="https://github.com/nakuldevmv/Spamurai" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
