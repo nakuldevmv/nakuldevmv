@@ -70,7 +70,7 @@
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
-        <p>A sleek Flutter app for precise web searches using Google Dorking. Find specific files like PDFs or media with custom queries. fast, simple, and efficient.</p>
+        <p>A sleek Flutter app for precise web searches using Google Dorking. Find specific files like PDFs or media with custom queries. fast, simple, and efficient.<br></p>
       </td>
       <td width="50%">
         <h2 align="left">Spamurai</h2>
