@@ -16,10 +16,10 @@
   <table>
     <tr>
       <td width="60%">
-        <p>👋 Hi there! I'm <b>Nakul Dev</b>, a passionate Software Engineer who believes in crafting elegant solutions to complex problems.</p>
-        <p>🔍 I love diving deep into code architecture, optimizing performance, and building intuitive user experiences.</p>
-        <p>📚 When I'm not debugging or pushing commits, you'll find me expanding my knowledge through books or pushing my limits at the gym.</p>
-        <p>🚀 My goal is to create software that not only works flawlessly but also brings joy to its users.</p>
+        <p>👋 Hi, I'm <strong>Nakul Dev</strong> a Software Engineer passionate about crafting elegant, efficient solutions.</p>
+        <p>💻 I specialize in clean architecture, performance optimization, and intuitive user experiences.</p>
+        <p>📚 Outside of coding, I’m either reading or lifting heavy at the gym.</p>
+        <p>🚀 My mission? Build software that’s fast, reliable, and genuinely enjoyable to use.</p>
       </td>
       <td width="40%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakuldevmv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%">
