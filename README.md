@@ -70,8 +70,7 @@
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
-        <p>A smart search tool that helps developers find solutions to their coding challenges with intelligent context-aware results.</p>
-        <p><b>Tech stack:</b> JavaScript, Node.js, React, MongoDB</p>
+        <p>A sleek Flutter app for precise web searches using Google Dorking. Find specific files like PDFs or media with custom queries. fast, simple, and efficient.</p>
       </td>
       <td width="50%">
         <h2 align="left">Spamurai</h2>
@@ -80,8 +79,7 @@
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
-        <p>AI-powered spam defense system that uses advanced machine learning algorithms to detect and filter out spam messages.</p>
-        <p><b>Tech stack:</b> Python, Flutter, TensorFlow</p>
+        <p>An automated email cleaner that detects spam and unsubscribes from unwanted mailing lists. Built with IMAP, Puppeteer, MongoDB Atlas, and IPQualityScore for efficient inbox management.</p>
       </td>
     </tr>
   </table>
