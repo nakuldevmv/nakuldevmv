@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nakul%20Dev&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=timeGradient&text=Nakul%20Dev&section=header&reversal=true&textBg=false&fontColor=f8f8ff&animation=fadeIn&stroke=000fff&strokeWidth=0.5" alt="header"/>
 </div>
 
 <div align="center">
@@ -151,5 +151,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer&reversal=true&textBg=false&fontColor=f8f8ff&animation=fadeIn&stroke=000fff&strokeWidth=0.5" alt="footer" />
 </div>
