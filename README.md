@@ -6,10 +6,10 @@
 <div align="center">
   <h2><i>Code hard, debug harder, pray the compiler agrees.</i></h2>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Software+Engineer;Coding+Enthusiast;Curious+Mind;Avid+Reader;GymRat+IRL+%26+in+code" alt="Typing SVG" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Software+Engineer;Coding+Enthusiast;Curious+Mind;Avid+Reader;GymRat+IRL+%26+in+code" alt="Typing SVG" /> -->
 </div>
 
-<br>
+
 
 ## 🧩 About Me
 
