@@ -23,5 +23,3 @@ jobs:
           username: nakuldevmv
           output-path: game.gif
           strategy: random
-          fps: 50
-          commit-message: "🚀 update contribution space shooter"
