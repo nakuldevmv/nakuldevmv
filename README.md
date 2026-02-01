@@ -64,6 +64,6 @@ Focused on clean architecture, performance, and real-world impact.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nakuldevmv&style=for-the-badge&color=111111"/>
+<img src="https://komarev.com/ghpvc/?username=nakuldevmv&abbreviated=true&color=brightgreen&style=flat"/>
 
 </div>
