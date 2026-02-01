@@ -8,7 +8,7 @@
 </div>
 
 
-<h1 align="center">Nakul Dev M V</h1>
+<h1 align="center">Nakul Dev</h1>
 <p align="center"><b>Backend Developer</b></p>
 
 <p align="center">
