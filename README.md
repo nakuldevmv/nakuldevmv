@@ -48,13 +48,13 @@ Focused on clean architecture, performance, and real-world impact.
 
 <b>
 
-<a href="https://nakuldev.vercel.app">portfolio/nakuldev</a>
+<a href="https://nakuldev.vercel.app">portfolio/ nakuldev.vercel.app</a>
 &nbsp;•&nbsp;
-<a href="https://linkedin.com/in/nakuldevmv">linkedin/nakuldevmv</a>
+<a href="https://linkedin.com/in/nakuldevmv">linkedin/ nakuldevmv</a>
 &nbsp;•&nbsp;
-<a href="https://github.com/nakuldevmv">github/nakuldevmv</a>
+<a href="https://github.com/nakuldevmv">github/ nakuldevmv</a>
 &nbsp;•&nbsp;
-<a href="mailto:nakuldevmv@gmail.com">email/nakuldevmv</a>
+<a href="mailto:nakuldevmv@gmail.com">email/ nakuldevmv@gmail.com</a>
 
 </b>
 
