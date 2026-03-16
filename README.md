@@ -48,7 +48,7 @@ Focused on clean architecture, performance, and real-world impact.
 
 <b>
 
-<a href="https://nakuldev.vercel.app">portfolio/ nakuldev.vercel.app</a>
+<a href="https://nakuldev.vercel.app">portfolio/ nakuldev.me</a>
 &nbsp;•&nbsp;
 <a href="https://linkedin.com/in/nakuldevmv">linkedin/ nakuldevmv</a>
 &nbsp;•&nbsp;
